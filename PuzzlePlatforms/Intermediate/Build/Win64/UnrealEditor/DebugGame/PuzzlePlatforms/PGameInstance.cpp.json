@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\playground\\puzzleplatforms\\source\\puzzleplatforms\\pgameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\puzzleplatformseditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\debuggame\\puzzleplatforms\\definitions.puzzleplatforms.h",
+            "c:\\projects\\playground\\puzzleplatforms\\source\\puzzleplatforms\\pgameinstance.h",
+            "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\inc\\puzzleplatforms\\pgameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\inc\\puzzleplatforms\\pplatformtrigger.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\puzzleplatformseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\development\\puzzleplatforms\\definitions.puzzleplatforms.h",
+            "c:\\projects\\playground\\puzzleplatforms\\source\\puzzleplatforms\\environment\\pplatformtrigger.h",
+            "c:\\projects\\playground\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\inc\\puzzleplatforms\\pplatformtrigger.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
